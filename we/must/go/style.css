@@ -1,0 +1,18 @@
+img {
+	text-aling:center;
+	width:150px;
+}
+h3 {
+	font-family: Antic Slab, serif;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+	font-family: PT Sans, sans-serif;
+}
+
+.anipals {
+	width: 300px;
+	display: inline-block;
+}
